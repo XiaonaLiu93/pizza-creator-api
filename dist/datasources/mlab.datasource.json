@@ -1,0 +1,11 @@
+{
+    "name": "mlab",
+    "connector": "mongodb",
+    "url": "mongodb://user01:user01@ds233500.mlab.com:33500/fullstack-1903",
+    "host": "",
+    "port": 0,
+    "user": "",
+    "password": "",
+    "database": "",
+    "useNewUrlParser": true
+}
